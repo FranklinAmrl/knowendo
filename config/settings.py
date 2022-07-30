@@ -32,7 +32,6 @@ ALLOWED_HOSTS = ['*']
 INSTALLED_APPS = [
     'config',
     'bootstrap4',
-    'chartjs',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
